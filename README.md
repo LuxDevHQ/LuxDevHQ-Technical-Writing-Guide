@@ -1,18 +1,13 @@
-### **Mastering Technical Writing: 3-Week Free Boot Camp.**
+### **LuxDevHQ-Technical-Writing-Guide.**
 
-**Welcome to the "Mastering Technical Writing: 3-Week Free Boot Camp".** The "Mastering Technical Writing: 3-Week Free Boot Camp" is a comprehensive program designed to equip participants with the essential skills and knowledge required for effective technical writing. This documentation serves as an overview of the boot camp, providing key details and objectives for reference. 
+**This is a comprehensive guide designed to equip LuxDevHQ students with the essential skills and knowledge required for effective technical writing. This documentation serves as an overview of the skills needed to write standard technical articles and documentaion.
 
 
 #### **Objective:**
-- The primary objective of this boot camp is to empower participants to become proficient technical writers, capable of producing clear, concise, and user-oriented documentation across various domains. By the end of the program, participants will have a solid foundation in technical writing principles and techniques, enabling them to excel in their professional careers.
+- The primary objective of this guide is to empower students to become proficient technical writers, capable of producing clear, concise, and user-oriented documentation across various domains.
 
 
-#### **Duration:**
-- The boot camp spans three weeks, during which participants will engage in immersive learning experiences, interactive sessions, practical exercises, and collaborative projects. The program has been thoughtfully designed to accommodate busy schedules while maximizing knowledge acquisition.
-
-#### **Curriculum:**
-- The boot camp curriculum is divided into three distinct weeks, each focusing on specific aspects of technical writing.
-
+- The guide is divided into three distinct stages, each focusing on specific aspects of technical writing.
 
 ##### **Week 1: Fundamentals of Technical Writing.**
 - Participants will be introduced to the fundamental principles of technical writing, including understanding the target audience, developing an appropriate writing style, and structuring technical documents effectively. Grammar and proofreading skills will also be emphasized. 
