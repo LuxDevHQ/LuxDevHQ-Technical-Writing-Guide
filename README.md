@@ -1,6 +1,6 @@
 ### **LuxDevHQ-Technical-Writing-Guide.**
 
-**This is a comprehensive guide designed to equip LuxDevHQ students with the essential skills and knowledge required for effective technical writing. This documentation serves as an overview of the skills needed to write standard technical articles and documentaion.
+This is a comprehensive guide designed to equip LuxDevHQ students with the essential skills and knowledge required for effective technical writing. This documentation serves as an overview of the skills needed to write standard technical articles and documentaion.
 
 
 #### **Objective:**
@@ -9,16 +9,14 @@
 
 - The guide is divided into three distinct stages, each focusing on specific aspects of technical writing.
 
-##### **Week 1: Fundamentals of Technical Writing.**
+##### **Stage 1: Fundamentals of Technical Writing.**
 - Participants will be introduced to the fundamental principles of technical writing, including understanding the target audience, developing an appropriate writing style, and structuring technical documents effectively. Grammar and proofreading skills will also be emphasized. 
 
-##### **Week 2: Writing Technical Documents.**
+##### **Stage 2: Writing Technical Documents.**
 - This week will cover various types of technical documents, such as user manuals, reports, procedures, and online content. Participants will learn best practices for creating user-friendly documentation, presenting data effectively, and adapting their writing for online platforms. 
 
-##### **Week 3: Advanced Topics in Technical Writing.**
+##### **Stage 3: Advanced Topics in Technical Writing.**
 - Participants will delve into advanced topics, including writing for specialized audiences, documenting software and APIs, collaboration and project management, and staying updated with emerging trends in technical writing. This week will equip participants with the skills necessary to tackle complex writing challenges. 
-
-
 
 
 #### **Delivery Method:**
